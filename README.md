@@ -23,6 +23,15 @@ inside your own browser tab**.
   network at all — proof that nothing needs a server.
 - **You keep the files.** Save a `.psy` project or export to PSD/PNG/JPG/etc.
   directly to your device.
+- **Even work-in-progress stays local.** As you edit, Photoyam auto-saves your
+  session to your browser's own on-device storage (IndexedDB) so an accidental
+  tab close, refresh, or crash can be recovered next time you open the app. This
+  recovery data **also never leaves your device** — it's read straight from your
+  browser, not from any server. It's a single most-recent snapshot that's
+  overwritten as you work and removed once you restore or discard it (and it's
+  gone entirely if you clear the site's browser data). So if you close without
+  exporting, your unsaved image isn't sitting on someone's server — at most it's
+  a recovery snapshot in your own browser, under your control.
 
 If privacy or confidentiality matters to you — client work, personal photos,
 sensitive documents — Photoyam is safe by design: there's simply no server for
