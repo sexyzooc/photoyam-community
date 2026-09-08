@@ -68,8 +68,9 @@ your data to end up on.
 - **🎨 Color Tools** — HEX/RGB/HSL/HSV/CMYK converter, palette & scheme generator,
   **WCAG contrast checker**, CSS gradient generator, extract a palette from any
   image, and a searchable CSS named-color chart.
-- **🔄 File Converter** — batch-convert images between PNG / JPG / WebP / BMP and
-  download them individually or as a single ZIP.
+- **🔄 File Converter** — batch-convert images between **PNG / JPG / WebP / BMP /
+  TIFF / GIF / PDF / ICO / AVIF** and download them individually or as a single
+  ZIP. (Open it from the start screen or `File ▸ Convert…`.)
 - **🖼️ Broad format support** — open PSD, TIFF, SVG, GIF (animated), and camera-RAW
   previews; export PSD, PNG, JPG, WebP, TIFF, PDF, and animated GIF.
 
