@@ -6,6 +6,8 @@ No account. No upload. No install. Just open a URL and start editing.
 ### 👉 **[Open Photoyam → photoyam.com](https://photoyam.com)**
 ### 💬 **[Join the Discussions](https://github.com/sexyzooc/photoyam-community/discussions)** — bugs, ideas, questions, and show-and-tell
 
+![Photoyam editing a colorful portrait entirely in the browser](https://raw.githubusercontent.com/sexyzooc/photoyam-community/main/screenshot.png)
+
 ---
 
 ## 🔒 Your images never leave your device
