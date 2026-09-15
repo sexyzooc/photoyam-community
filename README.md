@@ -21,8 +21,9 @@ inside your own browser tab**.
   browser and never sent anywhere.
 - **No account, no tracking of your content.** You don't sign in, and there's
   nowhere for your work to be collected.
-- **Works offline.** Install it as an app (PWA) and it keeps working with no
-  network at all — proof that nothing needs a server.
+- **No server round-trips while you edit.** Once the page has loaded, editing
+  needs no network at all — filters, brushes, and exports all run on your own
+  device. (Even AI background removal runs in your browser.)
 - **You keep the files.** Save a `.psy` project or export to PSD/PNG/JPG/etc.
   directly to your device.
 - **Even work-in-progress stays local.** As you edit, Photoyam auto-saves your
@@ -65,14 +66,22 @@ your data to end up on.
 
 **Handy extras built in:**
 
+- **🪄 AI background removal** — cut out the subject in one click. The AI model
+  runs **on your device inside the browser** — the image is never uploaded.
 - **🎨 Color Tools** — HEX/RGB/HSL/HSV/CMYK converter, palette & scheme generator,
   **WCAG contrast checker**, CSS gradient generator, extract a palette from any
   image, and a searchable CSS named-color chart.
 - **🔄 File Converter** — batch-convert images between **PNG / JPG / WebP / BMP /
   TIFF / GIF / PDF / ICO / AVIF** and download them individually or as a single
   ZIP. (Open it from the start screen or `File ▸ Convert…`.)
-- **🖼️ Broad format support** — open PSD, TIFF, SVG, GIF (animated), and camera-RAW
-  previews; export PSD, PNG, JPG, WebP, TIFF, PDF, and animated GIF.
+- **📄 PDF tools** — turn a PDF into images or images into a PDF, and **merge,
+  split, reorder, and compress** PDFs — all in the browser, nothing uploaded.
+- **🖼️ Broad format support** — open PSD, TIFF, SVG, GIF (animated), HEIC, and
+  camera-RAW previews; export PSD, PNG, JPG, WebP, TIFF, PDF, and animated GIF.
+
+Prefer a single-purpose tool? Each of these has its own quick page at
+**[photoyam.com/tools](https://photoyam.com/tools)** (convert, resize, crop,
+compress, remove background, PSD viewer, PDF tools, and more).
 
 **Made to be pleasant to use:**
 
@@ -80,7 +89,9 @@ your data to end up on.
   keyboard shortcuts** with a Photoshop preset.
 - **7 themes** (Dark, Light, Midnight, Graphite, High Contrast, Nord, System) and
   saveable panel workspaces.
-- **English + Korean** UI.
+- **5 languages** — English, 한국어, 日本語, 中文, Español.
+- **Works on phones & tablets** — a responsive layout with touch gestures
+  (pinch-to-zoom, two-finger pan).
 - **Autosave & crash recovery** so you don't lose work.
 - **Ctrl/Cmd+S saves a real PSD** — with a heads-up before anything is flattened.
 
@@ -97,6 +108,8 @@ We'd love to hear from you in the
 | 💡 **Ideas** | Request a feature — and upvote (👍) the ones you want most. |
 | 🙋 **Q&A** | Ask how to do something; answers get marked as solutions. |
 | 🖼️ **Show and tell** | Share what you made with Photoyam! |
+
+---
 
 *This repository intentionally contains no source code — it exists only to host
 this public community space.*
